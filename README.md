@@ -5,6 +5,7 @@
 <p>This program is written in Python utilizing class-based concept, with the use of tkinter library that supports creating graphical user interface of the game.</p>
 <img src="https://github.com/in-mai-space/color-game/blob/1ac8d67fd857aa2e4a95de20a9f4061289d87082/image/Image%201.png"/>
 <img src="https://github.com/in-mai-space/color-game/blob/main/image/Image%202.png?raw=true">
+<img src="https://github.com/in-mai-space/color-game/blob/main/image/Image%203.png?raw=true">
 
 <h3>Installation</h3>
 <ol>
